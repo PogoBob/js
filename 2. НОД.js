@@ -11,7 +11,7 @@ function gcd(a, b)
 }
 
 
-const num1 = 48;
-const num2 = 8;
+const num1 = 111;
+const num2 = 3333;
 const result = gcd(num1, num2);
 console.log(result); 

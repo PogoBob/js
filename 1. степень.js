@@ -13,7 +13,7 @@ function pow(x, n)
   return result;
 }
 
-const base = 2;
+const base = 100;
 const exponent = 3;
 const result = pow(base, exponent);
 console.log(result);

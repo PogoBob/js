@@ -23,6 +23,6 @@ function pluralizeRecords(n)
   return `В результате выполнения запроса было найдено ${n} ${recordsForm}`;
 }
 
-const resultCount = 2001;
+const resultCount = 2008;
 const resultString = pluralizeRecords(resultCount);
 console.log(resultString); 
